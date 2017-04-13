@@ -48,5 +48,6 @@ if __name__=='__main__':
     stri = '/home/saverio_sun/project/chinese_rec_data/train/00547/40187.png'
     evaluate_one_pic(stri)
 ```
-    
-
+    
+## reference：
+[小石头的码疯窝](http://hacker.duanshishi.com/?p=1753)
